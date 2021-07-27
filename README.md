@@ -4,7 +4,7 @@ The purpose of this analysis is to help the District School Board investigate ho
 
 ## Results
 1. In order to perform the analysis, I replaced the math and reading scores for Thomas High School's 9th graders with NaNs while keeping the rest of the data intact. 
-2. I then repeated the school district analysis i did earlier to compare the difference between the two analyses. 
+2. I then repeated the school district analysis i did earlier to compare the difference between the two analyses,including total student count by subtracting the number of ninth-grade students in Thomas High School from the total student count, then recalculating the passing math and passing reading percentages, and the overall passing percentage with the recalculated total student count.
 
 ## Summary
 
